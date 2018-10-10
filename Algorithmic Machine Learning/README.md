@@ -5,7 +5,7 @@ The Algorithmic Machine Learning is a course at Eurecom that offers data science
 This course covers :
 
 - Data cleaning
-- Dala analysis
+- Data analysis
 - Algorithm implementation/selection
 - Algorithm evaluation and validation
 - Optimization and further research
